@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_label">
+        <item>@string/category_business_label</item>
+        <item>@string/category_books_label</item>
+        <item>@string/category_football_label</item>
+        <item>@string/category_media_label</item>
+        <item>@string/category_music_label</item>
+        <item>@string/category_politics_label</item>
+        <item>@string/category_society_label</item>
+        <item>@string/category_sport_label</item>
+        <item>@string/category_travel_label</item>
+        <item>@string/category_uk_news_label</item>
+        <item>@string/category_us_news_label</item>
+        <item>@string/category_world_news_label</item>
+    </string-array>
+    
+    <string-array name="category_values">
+        <item>@string/category_business_value</item>
+        <item>@string/category_books_value</item>
+        <item>@string/category_football_value</item>
+        <item>@string/category_media_value</item>
+        <item>@string/category_music_value</item>
+        <item>@string/category_politics_value</item>
+        <item>@string/category_society_value</item>
+        <item>@string/category_sport_value</item>
+        <item>@string/category_travel_value</item>
+        <item>@string/category_uk_news_value</item>
+        <item>@string/category_us_news_value</item>
+        <item>@string/category_world_news_value</item>
+    </string-array>
+
+    <string-array name="order_by_label">
+        <item>@string/order_by_newest_label</item>
+        <item>@string/order_by_oldest_label</item>
+    </string-array>
+
+    <string-array name="order_by_value">
+        <item>@string/order_by_newest_value</item>
+        <item>@string/order_by_oldest_value</item>
+    </string-array>
+</resources>
